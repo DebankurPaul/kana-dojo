@@ -370,6 +370,12 @@
   "termB": "mansion (English)",
   "explanation": "マンション means apartment building in Japanese. (Set 3)",
   "example": "駅前のマンションに住んでいます。"
+},
+  {
+  "termA": "ドンマイ (donmai)",
+  "termB": "don't mind (English)",
+  "explanation": "Used to comfort someone: 'never mind'. (Set 6)",
+  "example": "ミスしてもドンマイ！"
 }
 
 ]
