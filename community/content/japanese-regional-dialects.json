@@ -460,5 +460,12 @@
     "english": "very",
     "region": "Kansai",
     "note": "Now used nationwide. (Set 2)"
+  },
+  {
+    "dialect": "なまら",
+    "standardJapanese": "とても",
+    "english": "very",
+    "region": "Hokkaido",
+    "note": "Hokkaido intensifier. (Set 2)"
   }
 ]
